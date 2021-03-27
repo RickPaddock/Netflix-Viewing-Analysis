@@ -19,8 +19,5 @@ Python libraries used:
 - IPython.display
 ```
 
-![image](https://user-images.githubusercontent.com/51740051/112717091-3d789d80-8ee2-11eb-9ed8-0b27ff9b7220.png)
-
-
 All the best,
 Rick
