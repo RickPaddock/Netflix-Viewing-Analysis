@@ -1,6 +1,6 @@
 Hello there!
 
-This project analyses the viewing activities of my own account and that of some of my friends and family. It's coded in Python on Jupyter Notebooks.
+This project uses Python to analyse the viewing activities of my own account and that of some of my friends and family. It's coded in Python on Jupyter Notebooks.
 
 The data was downloaded from www.netflix.com/YourAccount for each individual user profile. This can be achieved by first clicking on 'Download your personal profile', and then clicking 'Submit Request':
 ![image](https://user-images.githubusercontent.com/51740051/112716507-b83fb980-8ede-11eb-8102-f00ed0eae5ff.png)
