@@ -1,6 +1,6 @@
 Hello there!
 
-This project uses Python to analyse the viewing activities of my own account and that of some of my friends and family. It's coded in Python on Jupyter Notebooks.
+This project uses Python to analyse the viewing activities of my own account and that of some of my friends and family. 
 
 Python libraries used:
 ```
