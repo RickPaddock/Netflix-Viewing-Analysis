@@ -1,6 +1,6 @@
 Hello there!
 
-This project uses Python to analyse the viewing activities of my own Netflix account and that of some of my friends and family. 
+This project uses Python to analyse the viewing activities of a number of netflix accounts. 
 
 Python libraries used:
 ```
